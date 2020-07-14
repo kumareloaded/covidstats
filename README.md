@@ -1,1 +1,1 @@
-# covidstats
+# outbreak statistics
